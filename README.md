@@ -1,6 +1,7 @@
 # PSET1
 ## Turma: cc1ma
-## Aluno: Pedro Henrique Pimentel da Silva 202305389
+## Aluno: Pedro Henrique Pimentel da Silva 
+## Matrícula: 202305389
 ## Professor: Abrantes Araujo Silva Filho
 
 
